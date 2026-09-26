@@ -1,2 +1,0 @@
-# pythonstudy
-python code
